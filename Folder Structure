@@ -1,0 +1,5 @@
+employee-attrition-prediction/
+├── attrition_prediction.ipynb
+├── employee_data.csv
+├── README.md
+└── requirements.txt
